@@ -290,7 +290,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-navigation:
-  - title: "About"
-    url: "/about/"
