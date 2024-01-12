@@ -293,4 +293,4 @@ defaults:
 
 navigation:
   - title: "About"
-    url: "/About/"
+    url: "/about/"
