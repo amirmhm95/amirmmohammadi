@@ -20,7 +20,7 @@ title                    : "Amirmohammad Mohammadi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Amirmohammad Mohammadi"
-description              : "A PhD student at Texas A&M University"
+description              : "Computer Engineering PhD student at Texas A&M University. Interested in AI and signal processing."
 url                      : "https://amirmmohammadi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Amirmohammad Mohammadi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Computer Engineering PhD student at Texas A&M University. Interested in AI and signal processing."
   location         : "College Station, TX"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:amir.m@tamu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
