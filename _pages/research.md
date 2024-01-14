@@ -18,12 +18,12 @@ modified: 2024-01-14
 
 ## Past Research Projects
 
-### My research is related to physiological signals analysis and prediction with AI algorithms
-#### Physics-informed neural networks for modeling cardiovascular dynamics.
+### Physiological Signals Analysis and Prediction with AI Algorithms
+ Physics-Informed Neural Networks for Modeling Cardiovascular Dynamics.
 
 ### Low-Power Sensor for Human Mental Stress Diagnosis. 
-#### Applied Signal Processing and Machine Learning Algorithms.
-#### Microcontroller Programming, Schematics, PCB design, and Collecting Signals.
+ Applied Signal Processing and Machine Learning Algorithms.
+ Microcontroller Programming, Schematics, PCB design, and Collecting Signals.
 
 
 
