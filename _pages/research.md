@@ -14,10 +14,16 @@ modified: 2024-01-14
 
 ## Current Research Projects
 
-### Histogram Layers for Improved Target Classification
+### Deep Learning Methods for Texture Characterization and Computer Vision
 
 ## Past Research Projects
 
-### PINN
+### My research is related to physiological signals analysis and prediction with AI algorithms
+#### Physics-informed neural networks for modeling cardiovascular dynamics.
+
+### Low-Power Sensor for Human Mental Stress Diagnosis. 
+#### Applied Signal Processing and Machine Learning Algorithms.
+#### Microcontroller Programming, Schematics, PCB design, and Collecting Signals.
+
 
 

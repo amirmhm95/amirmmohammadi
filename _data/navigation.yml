@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "About Me"
     url: /aboutme/
   - title: "Research"
@@ -10,5 +8,5 @@ main:
     url: /present_pubs/
   - title: "Curriculum Vitae"
     url: /documents/CV-AM-2023-12.pdf
-  - title: "Blog"
-    url: /blog/
+  #- title: "Blog"
+  #  url: /blog/

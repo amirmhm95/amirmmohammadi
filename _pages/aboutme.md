@@ -14,23 +14,23 @@ Hi! My name is Amirmohammad Mohammadi (feel free to call me Amir). I am a PhD st
 
 ## Education
 
-### Doctor of Philosophy, Electrical and Computer Engineering
+#### Doctor of Philosophy, Electrical and Computer Engineering
 
-#### Texas A&M University
+##### Texas A&M University
 
-##### Sept. 2022 – Present
+###### Sept. 2022 – Present
 
-### Master of Science, Electrical Engineering
+#### Master of Science, Electrical Engineering
 
-#### Sharif University of Technology
+##### Sharif University of Technology
 
-##### Sept. 2018 – Feb. 2021
+###### Sept. 2018 – Feb. 2021
 
-### Bachelor of Science, Electrical Engineering
+#### Bachelor of Science, Electrical Engineering
 
-#### University of Tabriz
+##### University of Tabriz
 
-##### Sept. 2014 – Sept. 2018
+###### Sept. 2014 – Sept. 2018
 
 
 <!-- ### Programming Languages
