@@ -14,14 +14,15 @@ modified: 2024-01-14
 
 ## Current Research Projects
 
-### Deep Learning Methods for Texture Characterization and Computer Vision
+### Deep Learning Methods for Time-Series, Texture Characterization and Computer Vision
+ Histogram Layers for Passive Sonar Classification.
 
 ## Past Research Projects
 
 ### Physiological Signals Analysis and Prediction with AI Algorithms
  Physics-Informed Neural Networks for Modeling Cardiovascular Dynamics.
 
-### Low-Power Sensor for Human Mental Stress Diagnosis. 
+### Low-Power Sensor for Human Mental Stress Diagnosis
  Applied Signal Processing and Machine Learning Algorithms.
  Microcontroller Programming, Schematics, PCB design, and Collecting Signals.
 
