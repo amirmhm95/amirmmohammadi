@@ -9,13 +9,13 @@ sitemap: true
 modified: 2024-01-14
 ---
 ## Research Interests
- Machine Learning, Deep Learning, Time-Series, Computer Vision
+ Machine Learning, Deep Learning, Time-Series, Computer Vision, Parameter Efficient Tarnsfer Learning
 
 
 ## Current Research Projects
 
-### Deep Learning Methods for Time-Series, Texture Characterization and Computer Vision
- Histogram Layers for Passive Sonar Classification.
+### Deep Learning Methods for Time-Series and Computer Vision
+ Passive Sonar Classification.
 
 ## Past Research Projects
 

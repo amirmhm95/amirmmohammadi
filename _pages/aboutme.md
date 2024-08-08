@@ -9,7 +9,7 @@ sitemap: true
 modified: 2024-01-14
 toc: False
 ---
-Hi! My name is Amirmohammad Mohammadi (feel free to call me Amir). I am a PhD student in Electrical and Computer Engineering at Texas A&M University, specializing in the intersection of signal processing and artificial intelligence. My academic journey includes a background in Electrical Engineering from the University of Tabriz and Sharif University of Technology. Currently, my research is centered on developing AI algorithms for applications in time-series analysis and computer vision.<br/>
+Hi! My name is Amirmohammad Mohammadi (feel free to call me Amir). I am a PhD student in Electrical and Computer Engineering at Texas A&M University, specializing in the intersection of signal processing and artificial intelligence with a background in Electrical Engineering from the University of Tabriz and Sharif University of Technology. Currently, my research is on developing AI algorithms and parameter efficient learning of foundation tranformer models for applications in time-series analysis and computer vision.<br/>
 
 
 ## Education
