@@ -14,17 +14,21 @@ modified: 2024-01-14
 
 ## Current Research Projects
 
-### Deep Learning Methods for Time-Series and Computer Vision
- Passive Sonar Classification.
+### Deep Learning Methods for Time-Series and Computer Vision.
+
+### Developing signal processing and machine learning techniques to improve sound classification using foundation transformer models and parameter efficient fine-tuning with histogram layers. 
+
+### Multimodal AI to include text descriptions of the classifications.
 
 ## Past Research Projects
 
-### Physiological Signals Analysis and Prediction with AI Algorithms
- Physics-Informed Neural Networks for Modeling Cardiovascular Dynamics.
+### Physiological Signals Analysis and Prediction with AI Algorithms.
 
-### Low-Power Sensor for Human Mental Stress Diagnosis
- Applied Signal Processing and Machine Learning Algorithms.
- Microcontroller Programming, Schematics, PCB design, and Collecting Signals.
+### Physics-informed neural networks for modeling cardiovascular dynamics with reduced ground truth. Implemented PINNs to incorporate known physiological constraints, achieving predictions with limited training data.
+
+### Low-Power Sensor for Human Mental Stress Diagnosis.
+
+### Applied signal processing and machine learning algorithms to identify stress in physiological data. Included microcontroller programming, schematics and PCBs design, and collection of signals through human subjects.
 
 
 
