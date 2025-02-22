@@ -9,7 +9,7 @@ modified: 2024-01-14
 toc: False
 ---
 
-👋 Hi! I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My passion is developing AI-driven solutions for a range of applications in biomedical and audio. I like to approach a challenge from the ground up, making each solution to the problem at hand and customize it. My very recent experiences were in transformer-based efficient transfer learning and physics-informed modeling, and generative AI.
+👋 Hi! I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My passion is developing AI-driven solutions for a range of applications in biomedical and audio. I like to approach a challenge simply from the ground up, making each solution customized to the problem at hand. My very recent experiences were in transformer-based efficient transfer learning and physics-informed modeling, and generative AI.
 
 ## 🔬 Research
 
