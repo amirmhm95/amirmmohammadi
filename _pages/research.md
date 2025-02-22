@@ -17,7 +17,7 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
 
 1. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
      <div style="flex: 0 0 100px; margin-right: 10px;">
-       <img src="/assets/images/paper1.jpg" alt="Paper 1" style="width:100%; height:auto;">
+       <img src="{{ site.baseurl }}/assets/images/paper1.jpg" alt="Paper 1" style="width:100%; height:auto;">
      </div>
      <div>
        <strong>Sel, K., Mohammadi, A., Peggrew, R. I., &amp; Jafari, R.</strong> (2023). Physics-informed neural networks for modeling physiological time-series for cuffless blood pressure estimation. <em>Nature NPJ Digital Medicine, 6</em>(1), 110. <a href="https://www.nature.com/articles/s41746-023-00853-4">Read Paper</a>
