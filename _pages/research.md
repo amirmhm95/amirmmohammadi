@@ -18,7 +18,7 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
        <img src="{{ site.baseurl }}/assets/images/paper1.png" alt="Paper 1" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Sel, K., Mohammadi, A., Peggrew, R. I., &amp; Jafari, R.</strong> (2023). Physics-informed neural networks for modeling physiological time-series for cuffless blood pressure estimation. <em>Nature NPJ Digital Medicine, 6</em>(1), 110. <a href="https://www.nature.com/articles/s41746-023-00853-4">Read Paper</a>
+       <strong>Sel, K., Mohammadi, A., Peggrew, R. I., &amp; Jafari, R.</strong> (2023). Physics-informed neural networks for modeling physiological time-series for cuffless blood pressure estimation. <em>Nature NPJ Digital Medicine, </em>6(1), 110. <a href="https://www.nature.com/articles/s41746-023-00853-4">Read Paper</a>
      </div>
    </div>
 
@@ -27,7 +27,7 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
        <img src="{{ site.baseurl }}/assets/images/paper2.png" alt="Paper 2" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Mohammadi, A., Fakharzadeh, M., &amp; Baraeinejad, B.</strong> (2022). An integrated human stress detection sensor using supervised algorithms. <em>IEEE Sensors Journal, 22</em>(8), 8216-8223. <a href="https://ieeexplore.ieee.org/abstract/document/9729836">Read Paper</a>
+       <strong>Mohammadi, A., Fakharzadeh, M., &amp; Baraeinejad, B.</strong> (2022). An integrated human stress detection sensor using supervised algorithms. <em>IEEE Sensors Journal, </em>22 (8), 8216-8223. <a href="https://ieeexplore.ieee.org/abstract/document/9729836">Read Paper</a>
      </div>
    </div>
 
@@ -36,7 +36,7 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
        <img src="{{ site.baseurl }}/assets/images/preprint1.png" alt="Preprint 1" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Mohammadi, A., Masabarakiza, I., Barnes, E., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Investigation of Time-Frequency Feature Combinations with Histogram Layer Time Delay Neural Networks. <em>IEEE OCEANS 2025, <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13881__;!!KwNVnqRv!GFZbeldmXWfUAnqaCAn5Pwzq7vlFEfD1fg6YKJ5BOwJZCNn9mekTGBLPIELZ1HiEfZIdT0SgIAumcu6J$">Read Preprint</a>
+       <strong>Mohammadi, A., Masabarakiza, I., Barnes, E., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Investigation of Time-Frequency Feature Combinations with Histogram Layer Time Delay Neural Networks. <em>IEEE OCEANS 2025,<em> <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13881__;!!KwNVnqRv!GFZbeldmXWfUAnqaCAn5Pwzq7vlFEfD1fg6YKJ5BOwJZCNn9mekTGBLPIELZ1HiEfZIdT0SgIAumcu6J$">Read Preprint</a>
      </div>
    </div>
 
@@ -45,7 +45,7 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
        <img src="{{ site.baseurl }}/assets/images/preprint2.png" alt="Preprint 2" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Mohammadi, A., Kelhe, T., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Transfer Learning for Passive Sonar Classification using Pre-trained Audio and ImageNet Models. <em>IEEE OCEANS 2025, <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13878__;!!KwNVnqRv!CH28iw7cUYaR2TMeQYHyt7Lhm_N7SefA7TmThvM4IUllV6y2hlp-gJxr2bfH7aga3BoAq-oAnr6z47lh$">Read Preprint</a>
+       <strong>Mohammadi, A., Kelhe, T., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Transfer Learning for Passive Sonar Classification using Pre-trained Audio and ImageNet Models. <em>IEEE OCEANS 2025,<em> <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13878__;!!KwNVnqRv!CH28iw7cUYaR2TMeQYHyt7Lhm_N7SefA7TmThvM4IUllV6y2hlp-gJxr2bfH7aga3BoAq-oAnr6z47lh$">Read Preprint</a>
      </div>
    </div>
 
