@@ -13,8 +13,6 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
 
 ## Publications
 
-### Journal Papers
-
 1. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
      <div style="flex: 0 0 250px; margin-right: 10px;">
        <img src="{{ site.baseurl }}/assets/images/paper1.png" alt="Paper 1" style="width:100%; height:auto;">
@@ -33,27 +31,25 @@ Parameter Efficient Transfer Learning, Digital Health, Applied AI Research, Mach
      </div>
    </div>
 
-### Preprints
-
-1. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+3. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
      <div style="flex: 0 0 250px; margin-right: 10px;">
        <img src="{{ site.baseurl }}/assets/images/preprint1.png" alt="Preprint 1" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Mohammadi, A., Masabarakiza, I., Barnes, E., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Investigation of Time-Frequency Feature Combinations with Histogram Layer Time Delay Neural Networks. <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13881__;!!KwNVnqRv!GFZbeldmXWfUAnqaCAn5Pwzq7vlFEfD1fg6YKJ5BOwJZCNn9mekTGBLPIELZ1HiEfZIdT0SgIAumcu6J$">Read Preprint</a>
+       <strong>Mohammadi, A., Masabarakiza, I., Barnes, E., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Investigation of Time-Frequency Feature Combinations with Histogram Layer Time Delay Neural Networks. <em>IEEE OCEANS 2025, <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13881__;!!KwNVnqRv!GFZbeldmXWfUAnqaCAn5Pwzq7vlFEfD1fg6YKJ5BOwJZCNn9mekTGBLPIELZ1HiEfZIdT0SgIAumcu6J$">Read Preprint</a>
      </div>
    </div>
 
-2. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+4. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
      <div style="flex: 0 0 250px; margin-right: 10px;">
        <img src="{{ site.baseurl }}/assets/images/preprint2.png" alt="Preprint 2" style="width:100%; height:auto;">
      </div>
      <div>
-       <strong>Mohammadi, A., Kelhe, T., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Transfer Learning for Passive Sonar Classification using Pre-trained Audio and ImageNet Models. <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13878__;!!KwNVnqRv!CH28iw7cUYaR2TMeQYHyt7Lhm_N7SefA7TmThvM4IUllV6y2hlp-gJxr2bfH7aga3BoAq-oAnr6z47lh$">Read Preprint</a>
+       <strong>Mohammadi, A., Kelhe, T., Carreiro, D., Van Dine, A., &amp; Peeples, J.</strong> Transfer Learning for Passive Sonar Classification using Pre-trained Audio and ImageNet Models. <em>IEEE OCEANS 2025, <a href="https://urldefense.com/v3/__http://arxiv.org/abs/2409.13878__;!!KwNVnqRv!CH28iw7cUYaR2TMeQYHyt7Lhm_N7SefA7TmThvM4IUllV6y2hlp-gJxr2bfH7aga3BoAq-oAnr6z47lh$">Read Preprint</a>
      </div>
    </div>
 
-3. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+5. <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
      <div style="flex: 0 0 250px; margin-right: 10px;">
        <img src="{{ site.baseurl }}/assets/images/preprint3.png" alt="Preprint 3" style="width:100%; height:auto;">
      </div>
