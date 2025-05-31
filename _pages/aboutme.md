@@ -9,21 +9,24 @@ modified: 2024-01-14
 toc: False
 ---
 
-👋 Hi! I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My passion is developing AI-driven solutions for a range of applications in biomedical and audio. I like to approach challenges simply from the ground up, customizing each solution to the problem at hand. My very recent experiences were in transformer-based efficient transfer learning and physics-informed modeling, and generative AI.
+👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing AI-driven solutions for a range of applications in health and remote monitoring. Most recently I have worked on transformer-based efficient transfer learning, physics-informed modeling, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand.
 
 ## 🔬 Research
 
-- **AI in Digital Health:** Physiological time-series analysis to improve diagnostic and predictive healthcare via HW/SW approach to help make health more accessible and also with reduced ground truth.
-- **Efficient Transfer Learning:** Leveraging transformer architectures for cross-domain model adaptation for downstream data. Especially useful for edge-devices with constrained resources.
+- **AI in Health:** Physiological time-series analysis for accessible, low-label diagnostic and predictive healthcare using integrated HW/SW pipelines.
+
+- **Efficient Transfer Learning:** Transformer-based PETL methods that enable cross-domain adaptation on resource-constrained edge devices.
+
+- **Open-Source & Publications:** please see my CV for links to codes and papers.
 
 ## 🎓 Education
 
 **Doctor of Philosophy, Electrical and Computer Engineering**  
 *Texas A&M University*  
-Sept. 2022 – Present  
+Sept. 2022 – Present (expected Fall 2026 / Spring 2027) 
 
 <!-- Additional details, internships, or research experiences can be added here if desired -->
 
 ## 🌍 Beyond the Lab
 
-I like reading and watching mystery books and movies. I love spending time alone and also with family/friends. In sports, I like soccer. Recently, I have been into concepts about the world and human. 
+I enjoy mystery books and movies. I follow football whenever I can. Lately I have been exploring philosophy and human in my free time. 
