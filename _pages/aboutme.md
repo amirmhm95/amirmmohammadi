@@ -29,4 +29,4 @@ Sept. 2022 – Present (expected Fall 2026 / Spring 2027)
 
 ## 🌍 Beyond the Lab
 
-I enjoy mystery books and movies. I follow football whenever I can. Lately I have been exploring philosophy and human in my free time. 
+I enjoy mystery books and movies. I follow football whenever I can. Lately I have been exploring philosophy in my free time. 
