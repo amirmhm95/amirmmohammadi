@@ -9,7 +9,7 @@ modified: 2024-01-14
 toc: False
 ---
 
-👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing AI-driven solutions for a range of applications in health and remote monitoring. Most recently I have worked on transformer-based efficient transfer learning, physics-informed modeling, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand.
+👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing AI-driven solutions for a range of applications in health and remote monitoring. Most recently I have worked on efficient transfer learning of foundation models, physics-informed neural networks, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand.
 
 ## 🔬 Research
 
@@ -23,7 +23,7 @@ toc: False
 
 **Doctor of Philosophy, Electrical and Computer Engineering**  
 *Texas A&M University*  
-Sept. 2022 – Present (expected Fall 2026 / Spring 2027) 
+Sept. 2022 – Present (expected Fall 2026) 
 
 <!-- Additional details, internships, or research experiences can be added here if desired -->
 
