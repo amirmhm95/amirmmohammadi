@@ -15,7 +15,7 @@ toc: False
 
 **Doctor of Philosophy, Electrical and Computer Engineering**  
 *Texas A&M University*  
-Sept. 2022 – Present (anticipated December 2026) 
+Sept. 2022 – Present (anticipated December 2026 / May 2027) 
 
 <!-- Additional details, internships, or research experiences can be added here if desired -->
 
