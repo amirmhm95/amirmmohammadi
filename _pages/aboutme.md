@@ -9,7 +9,7 @@ modified: 2024-01-14
 toc: False
 ---
 
-👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing fundamental and applied AI-driven solutions for a range of applications. Most recently I have worked on efficient transfer learning of foundation models, physics-informed neural networks, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand. Please see my CV for links to codes and papers.
+👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing fundamental and applied AI-driven solutions for a range of applications including digital health and foundation models. Most recently I have worked on efficient transfer learning of foundation models, physics-informed neural networks, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand. Please see my CV for links to codes and papers.
 
 ## 🎓 Education
 
@@ -21,4 +21,4 @@ Sept. 2022 – Present (anticipated December 2026 / May 2027)
 
 ## 🌍 Beyond the Lab
 
-I enjoy mystery books and movies. I follow football whenever I can. Lately I have been exploring philosophy in my free time. 
+I enjoy mystery stories, books, and movies. Lately I have been exploring philosophy in my free time. 
