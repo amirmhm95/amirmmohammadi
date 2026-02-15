@@ -13,7 +13,6 @@ toc: False
 
 My research spans audio, image, and time-series modalities, with applications in acoustics and health. These are all areas where data is noisy, labels are expensive, and you cannot just train a bigger model. I started in hardware — during my master's at Sharif University of Technology, I designed a wearable sensor from the circuit board to the classification algorithm in software. That experience taught me to think about the whole problem, not just the model. I carry that into my current work: understanding the signal, the physics, and the constraints before deciding what to build.
 
-I am expecting to graduate by December 2026 and am looking for roles in applied AI research and ML engineering. Please see my CV for links to codes and papers.
 
 ## 🎓 Education
 **Doctor of Philosophy, Computer Engineering**  
