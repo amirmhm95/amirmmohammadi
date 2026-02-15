@@ -2,8 +2,6 @@
 main:
   - title: "About Me"
     url: /aboutme/
-  - title: "Research"
-    url: /research/
   - title: "Curriculum Vitae"
     url: /documents/Amir_CV_IR_US.pdf
   - title: "Resume"

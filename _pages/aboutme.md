@@ -1,24 +1,34 @@
 ---
 permalink: /aboutme/
 title: "About Me"
-excerpt: "Amir is a Computer Engineering PhD student at Texas A&M University developing AI-driven innovations."
+excerpt: "Amir is a Computer Engineering PhD candidate at Texas A&M University."
 layout: single
 author_profile: true
 sitemap: true
-modified: 2024-01-14
+modified: 2025-02-15
 toc: False
 ---
 
-👋 I'm Amir, a doctoral researcher in Electrical and Computer Engineering at Texas A&M University. My research involves developing fundamental and applied AI-driven solutions for a range of applications including digital health and foundation models. Most recently I have worked on efficient transfer learning of foundation models, physics-informed neural networks, and generative AI. I like to approach challenges simply from the ground up, understanding fundamentals, leveraging SOTA, and customizing each solution to the problem at hand. Please see my CV for links to codes and papers.
+👋 I'm Amir, a Computer Engineering PhD candidate at Texas A&M University, funded by MIT Lincoln Laboratory and the National Institutes of Health. I work on making deep learning models more efficient and more useful in real-world settings — from adapting foundation models with fewer parameters to using physics to reduce the need for labeled data.
+
+My research spans remote sensing, underwater acoustics, and digital health. These are all areas where data is noisy, labels are expensive, and you cannot just train a bigger model. I have published in Nature NPJ Digital Medicine, IEEE OCEANS, and WACV, among others.
+
+What I think sets me apart is my background. I started in hardware — during my master's at Sharif University of Technology, I designed a wearable sensor from the circuit board to the classification algorithm. That experience taught me to think about the whole problem, not just the model. I carry that into my current work: understanding the signal, the physics, and the constraints before deciding what to build.
+
+I am expecting to graduate by December 2026 and am looking for roles in applied AI research and ML engineering. Please see my [CV](/cv/) and [publications](/publications/) for links to codes and papers.
 
 ## 🎓 Education
-
-**Doctor of Philosophy, Electrical and Computer Engineering**  
+**Doctor of Philosophy, Computer Engineering**  
 *Texas A&M University*  
-Sept. 2022 – Present (anticipated December 2026 / May 2027) 
+Sept. 2022 – Present (anticipated December 2026)
 
-<!-- Additional details, internships, or research experiences can be added here if desired -->
+**Master of Science, Electrical Engineering**  
+*Sharif University of Technology*  
+Graduated February 2021
+
+**Bachelor of Science, Electrical Engineering**  
+*University of Tabriz*  
+Graduated September 2018
 
 ## 🌍 Beyond the Lab
-
-I enjoy mystery stories, books, and movies. Lately I have been exploring philosophy in my free time. 
+I enjoy mystery stories, books and movies. Lately I have been reading philosophy — just following whatever catches my interest.
