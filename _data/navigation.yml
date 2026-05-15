@@ -4,7 +4,5 @@ main:
     url: /aboutme/
   - title: "Curriculum Vitae"
     url: /documents/Amir_CV_2026.pdf
-  - title: "Resume"
-    url: /documents/Amir_Resume_2026.pdf
   #- title: "Blog"
   #  url: /blog/
