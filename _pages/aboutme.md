@@ -17,7 +17,7 @@ My research spans audio, image, and time-series modalities, with applications in
 ## 🎓 Education
 **Doctor of Philosophy, Computer Engineering**  
 *Texas A&M University*  
-Sept. 2022 – Present (anticipated December 2026 / May 2027)
+Sept. 2022 – Present (anticipated May 2027)
 
 **Master of Science, Electrical Engineering**  
 *Sharif University of Technology*  
